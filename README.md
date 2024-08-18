@@ -2,7 +2,9 @@
 
 # Özellikler
 -Responsive Tasarım
+
 -Header Yapısı Mevcut
+
 -Kullanıcı Dostu  Arayüz Yapısı
 
 # Ön İzleme
